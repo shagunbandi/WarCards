@@ -1,2 +1,2 @@
 # WarCards
-2 Player iOS using basic features of Swift.
+2 Player iOS App using basic features of Swift.
